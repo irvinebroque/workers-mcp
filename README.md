@@ -2,8 +2,10 @@
 
 > **Talk to a Cloudflare Worker from Claude Desktop!**
 
-> [!NOTE]  
-> You can now [build and deploy MCP servers to Cloudflare that support remote MCP connections](https://developers.cloudflare.com/agents/guides/remote-mcp-server/) — and [use them with Claude Desktop, Cursor and other local-only MCP clients](https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/). If you're starting a new MCP Server, you should read these guides instead. `workers-mcp` is a previous, local-only approach to building MCP servers.
+> [!WARNING]  
+> You should start [here](https://developers.cloudflare.com/agents/guides/remote-mcp-server/) instead — and build a **remote** MCP server
+>
+> You can connect to remote MCP servers from Claude Desktop, Cursor, and other clients [using mcp-remote](https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/).
 
 ### What is `workers-mcp`?
 
